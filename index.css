@@ -1,3 +1,12 @@
+.navigation {
+    display: flex;
+    flex-flow: row wrap;
+    /* This aligns items to the end line on main-axis */
+    /*justify-content: flex-end;*/
+    justify-content: space-around;
+    list-style: none;
+    padding: 0;
+  }
 .header {
     display: flex;
     Text-align: right;
@@ -10,5 +19,19 @@
     padding: 10px;
     background-color: rgb(142, 142, 183);
     display: inline-block;
-    width: 625px;
+    width: 500px;
+}
+#box2 {
+    text-size-adjust: 40px;
+    padding: 10px;
+    background-color: rgb(142, 142, 183);
+    display: inline-block;
+    width: 150px;
+}
+#box3 {
+    text-size-adjust: 40px;
+    padding: 10px;
+    background-color: rgb(142, 142, 183);
+    display: inline-block;
+    width: 300px;
 }
