@@ -1,3 +1,10 @@
+.header {
+    display: flex;
+    Text-align: right;
+    float: right;
+    list-style: none;
+    gap: 10px;
+}
 #box1 {
     text-size-adjust: 40px;
     padding: 10px;
