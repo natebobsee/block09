@@ -1,5 +1,5 @@
-# block09
-# block09
-# block09
-# block09
-# block09
+three main pages 
+about\
+index
+portfolio
+
